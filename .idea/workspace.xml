@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="dbf208ad-6692-41d4-a69f-808992596630" name="Default Changelist" comment="" />
+    <list default="true" id="dbf208ad-6692-41d4-a69f-808992596630" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/a/b/abc8a42193ad6b1361f998423ea364e1e00c0712" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/a/b/abc8a42193ad6b1361f998423ea364e1e00c0712" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -21,12 +25,16 @@
     <expand />
     <select />
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="PackageJsonUpdateNotifier">
     <dismissed value="$PROJECT_DIR$/client/package.json" />
     <dismissed value="$PROJECT_DIR$/server/package.json" />
     <dismissed value="$PROJECT_DIR$/worker/package.json" />
   </component>
   <component name="ProjectId" id="1XQHv7eVkduJtFZmPnaHTWbBziY" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="autoscrollToSource" value="true" />
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -35,6 +43,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="JSON" />
@@ -76,7 +85,9 @@
       <workItem from="1581960011106" duration="1879000" />
       <workItem from="1582098247147" duration="3440000" />
       <workItem from="1582102802076" duration="9000" />
-      <workItem from="1582527841191" duration="430000" />
+      <workItem from="1582527841191" duration="5306000" />
+      <workItem from="1582534013337" duration="6000" />
+      <workItem from="1583161505825" duration="247000" />
     </task>
     <servers />
   </component>
@@ -116,9 +127,10 @@
       <screen x="0" y="27" width="1920" height="1053" />
     </state>
     <state x="449" y="187" key="SettingsEditor/0.27.1920.1053/0.1080.1920.1080@0.27.1920.1053" timestamp="1581959991294" />
-    <state x="605" y="263" width="710" height="578" key="find.popup" timestamp="1581959937077">
-      <screen x="0" y="27" width="1920" height="1053" />
+    <state x="605" y="505" width="710" height="1171" key="find.popup" timestamp="1583161732113">
+      <screen x="0" y="27" width="1920" height="2133" />
     </state>
     <state x="605" y="263" width="710" height="578" key="find.popup/0.27.1920.1053/0.1080.1920.1080@0.27.1920.1053" timestamp="1581959937077" />
+    <state x="605" y="505" width="710" height="1171" key="find.popup/0.27.1920.2133@0.27.1920.2133" timestamp="1583161732113" />
   </component>
 </project>
