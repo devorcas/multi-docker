@@ -55,3 +55,5 @@ A
 client/Dockerfile,8/6/86b9845f28676d6ef06f2f252b8fb6ee4d73815a
 ;
 .travis.yml,d/e/dea01dd89a3b602828e630677fde5d77c06441c8
+B
+Dockerrun.aws.json,0/0/00a8cea7eee5b42306d5933b76ba7f930c270ff5

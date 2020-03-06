@@ -2,7 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="dbf208ad-6692-41d4-a69f-808992596630" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/a/b/abc8a42193ad6b1361f998423ea364e1e00c0712" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/a/b/abc8a42193ad6b1361f998423ea364e1e00c0712" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/aws.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/0/0/00a8cea7eee5b42306d5933b76ba7f930c270ff5" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/d/e/dea01dd89a3b602828e630677fde5d77c06441c8" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dockerrun.aws.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
@@ -87,7 +90,15 @@
       <workItem from="1582102802076" duration="9000" />
       <workItem from="1582527841191" duration="5306000" />
       <workItem from="1582534013337" duration="6000" />
-      <workItem from="1583161505825" duration="247000" />
+      <workItem from="1583161505825" duration="1265000" />
+      <workItem from="1583215277922" duration="164000" />
+      <workItem from="1583225182092" duration="1036000" />
+      <workItem from="1583227146622" duration="829000" />
+      <workItem from="1583252098398" duration="1273000" />
+      <workItem from="1583411543818" duration="323000" />
+      <workItem from="1583413232614" duration="4532000" />
+      <workItem from="1583493853434" duration="1216000" />
+      <workItem from="1583496438778" duration="660000" />
     </task>
     <servers />
   </component>
@@ -103,6 +114,10 @@
       <screen x="0" y="27" width="1920" height="1053" />
     </state>
     <state x="670" y="357" width="569" height="390" key="#com.intellij.fileTypes.FileTypeChooser/0.27.1920.1053/0.1080.1920.1080@0.27.1920.1053" timestamp="1582100685586" />
+    <state x="643" y="1347" width="624" height="544" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1583226723993">
+      <screen x="0" y="1080" width="1920" height="1080" />
+    </state>
+    <state x="643" y="1347" width="624" height="544" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.27.1920.1053/0.1080.1920.1080@0.1080.1920.1080" timestamp="1583226723993" />
     <state width="1874" height="287" key="GridCell.Tab.0.bottom" timestamp="1580978581160">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
