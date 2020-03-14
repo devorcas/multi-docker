@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="dbf208ad-6692-41d4-a69f-808992596630" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Dockerrun.aws.json" beforeDir="false" afterPath="$PROJECT_DIR$/Dockerrun.aws.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,7 +46,7 @@
     <property name="aspect.path.notification.shown" value="true" />
     <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="JSON" />
     <property name="javascript.nodejs.core.library.configured.version" value="8.10.0" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/worker" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
     <property name="ts.external.directory.path" value="$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/jsLanguageServicesImpl/external" />
@@ -99,6 +98,8 @@
       <workItem from="1583829739874" duration="15000" />
       <workItem from="1583920354572" duration="4275000" />
       <workItem from="1583933920102" duration="1241000" />
+      <workItem from="1584202793770" duration="118000" />
+      <workItem from="1584202936311" duration="3809000" />
     </task>
     <servers />
   </component>
@@ -138,10 +139,11 @@
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="543" y="276" width="824" height="526" key="IDE.errors.dialog/0.1080.1920.1080/0.0.1920.1080@0.0.1920.1080" timestamp="1580975479324" />
-    <state x="449" y="187" key="SettingsEditor" timestamp="1581959991294">
-      <screen x="0" y="27" width="1920" height="1053" />
+    <state x="497" y="189" width="1067" height="737" key="SettingsEditor" timestamp="1584202912420">
+      <screen x="62" y="29" width="1858" height="1051" />
     </state>
     <state x="449" y="187" key="SettingsEditor/0.27.1920.1053/0.1080.1920.1080@0.27.1920.1053" timestamp="1581959991294" />
+    <state x="497" y="189" width="1067" height="737" key="SettingsEditor/62.29.1858.1051@62.29.1858.1051" timestamp="1584202912420" />
     <state x="605" y="505" width="710" height="1171" key="find.popup" timestamp="1583161732113">
       <screen x="0" y="27" width="1920" height="2133" />
     </state>
